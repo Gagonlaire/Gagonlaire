@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Gervais
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul
 ====================================================================================================================================
 
 Web / Cloud developper
@@ -9,7 +9,7 @@ I am a third year student at Epitech, a leading computer science and engineering
 * 🌍  I'm based in France
 * ✉️  You can contact me at [paulgervais911@gmail.com](mailto:paulgervais911@gmail.com)
 * 🧠  I'm learning Rust and GCP
-* ⚡  climbing enjoyer
+* 🧗‍♂️  climbing enjoyer
 
 ### Skills
 
